@@ -1,2 +1,2 @@
 ### <p style="text-align: center">My Profile</p>
-![](./assets/images/cv.jpg)
+![Test](./assets/images/cv.png "CV image")
