@@ -6,7 +6,7 @@ James(Minh Vuong) M.
 </div>
 
 ## Objective
----
+***
 Become a software engineer capale of solving project problems, able to work in team. Learning to know, learning to be, learning to do and learning to live together.
 
 ## Education
@@ -36,3 +36,9 @@ The Faculty of Information Technology, major in Software Engineering.
 - Talking an active role in structuring our single page applications to make them easy to maintain and to ensure they are highly modularized.
 - Projects: [etop.vn](https://etop.vn), etop app, Github Insight.
 
+## Skills
+***
+- TypeScript, Angular, HTML, CSS, JavaScript...
+- Teamwork.
+- Problem solving.
+- Critical thinking.
