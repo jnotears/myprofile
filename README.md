@@ -1,3 +1,4 @@
+<link href="style.css" rel="stylesheet"></link>
 <div style="margin: 20px">
 <img src="./assets/images/cv.PNG" alt="xzx" style="height: 100px; width:100px; border-radius: 50%"/> 
 <span style="font-size: 30px">
@@ -5,9 +6,11 @@ James(Minh Vuong) M.
 </span></br>
 <span>October 27, 1994</span>
 </div></br>
-| --- | --- |
-| Hihi | Hehe |
 
+ Syntax | Description
+ --- | -----------
+ Header | Title
+ Paragraph | Text
 
 >## Objective
 ***
