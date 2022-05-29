@@ -7,7 +7,7 @@ James(Minh Vuong) M.
 
 ## Objective
 ***
-*Become a software engineer capale of solving project problems, able to work in team. Learning to know, learning to be, learning to do and learning to live together.*
+*Become a software engineer capable of solving project problems, able to work in team. Learning to know, learning to be, learning to do and learning to live together.*
 
 ## Education
 ***
@@ -25,7 +25,7 @@ The Faculty of Information Technology, major in Software Engineering.
 **FS Co.,Ltd** `Nov, 2018 - Dec, 2019`</br>
 *Junior ASP.NET Developer*
 - Working with Microsoft Entity Framework and SQL Server to maintain and enhance data Framework.
-- Develop and support application systems in accordance with establish standars and processes.
+- Develop and support application systems in accordance with establish standards and processes.
 - Developing and maintaining web based applications written in traditional ASP.NET and MVC5 as well as heavily utilising windows Workflow Foundation.
 
 **eB2B** `Apr, 2020 - Nov, 2020`</br>
