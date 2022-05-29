@@ -34,5 +34,5 @@ The Faculty of Information Technology, major in Software Engineering.
 - Makes design recommendations towards the development of new code or reuse of existing code.
 - Developing and Administer the new Angular based website.
 - Talking an active role in structuring our single page applications to make them easy to maintain and to ensure they are highly modularized.
-- Projects: ![](https://etop.vn), etop app, Github Insight .
+- Projects: [etop.vn](https://etop.vn), etop app, Github Insight.
 
