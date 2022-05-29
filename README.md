@@ -39,6 +39,7 @@ The Faculty of Information Technology, major in Software Engineering.
 ## Skills
 ***
 - TypeScript, Angular, HTML, CSS, JavaScript...
+- Leading team, breakdown requirements and estimate.
 - Teamwork.
 - Problem solving.
 - Critical thinking.
