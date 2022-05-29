@@ -36,6 +36,18 @@ The Faculty of Information Technology, major in Software Engineering.
 - Talking an active role in structuring our single page applications to make them easy to maintain and to ensure they are highly modularized.
 - Projects: [etop.vn](https://etop.vn), etop app, Github Insight.
 
+**ECR Vietnam Co.,Ltd** `Nov, 2020 - Now`</br>
+*Frontend Team Lead*
+- Working knowledge of front end optimization and performance techniques.
+- Makes design recommendations towards the development of new code or reuse of existing code.
+- Developing and Administer the new Angular based website.
+- Talking an active role in structuring our single page applications to make them easy to maintain and to ensure they are highly modularized.
+- NodeJS as maintained in Express.
+- Using MongoDB and Postgres on the Back end.
+- JavaScript framework experience in NodeJS.
+- Experience RESTful design and development.
+- Projects: 4Oranges Sale Audit, ECR Your Stock, ECR Your Ticketing.
+
 ## Skills
 ***
 - TypeScript, Angular, HTML, CSS, JavaScript...
