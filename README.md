@@ -6,7 +6,7 @@ James(Minh Vuong) M.
 </div>
 
 ## Objective
-***
+---
 Become a software engineer capale of solving project problems, able to work in team. Learning to know, learning to be, learning to do and learning to live together.
 
 ## Education
