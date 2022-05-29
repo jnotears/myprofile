@@ -1,5 +1,5 @@
 <div style="margin: 20px">
-<img src="./assets/images/cv.PNG" alt="xzx" style="height: 100px; width:100px;"/> 
+<img src="./assets/images/cv.PNG" alt="xzx" style="height: 100px; width:100px; border-radius: 50%"/> 
 <span style="font-size: 30px">
 James(Minh Vuong) M.
 </span>
