@@ -5,16 +5,16 @@ James(Minh Vuong) M.
 </span>
 </div>
 
-## Objective
+>## Objective
 ***
 *Become a software engineer capable of solving project problems, able to work in team. Learning to know, learning to be, learning to do and learning to live together.*
 
-## Education
+>## Education
 ***
 HO CHI MINH UNIVERSITY OF SCIENCE `Sep, 2012 - Oct, 2016`</br>
 The Faculty of Information Technology, major in Software Engineering.
 
-## Work Experience
+>## Work Experience
 ***
 **FREELANCER** `Apr, 2015 - Nov, 2018`
 
@@ -48,7 +48,7 @@ The Faculty of Information Technology, major in Software Engineering.
 - Experience RESTful design and development.
 - Projects: 4Oranges Sale Audit, ECR Your Stock, ECR Your Ticketing.
 
-## Skills
+>## Skills
 ***
 - TypeScript, Angular, HTML, CSS, JavaScript...
 - Leading team, breakdown requirements and estimate.
