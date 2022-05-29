@@ -13,7 +13,6 @@ James(Minh Vuong) M.
 ***
 HO CHI MINH UNIVERSITY OF SCIENCE `Sep, 2012 - Oct, 2016`</br>
 The Faculty of Information Technology, major in Software Engineering.
-&nbsp;
 
 >## Work Experience
 ***
