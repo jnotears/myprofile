@@ -8,12 +8,12 @@ James(Minh Vuong) M.
 </div></br> -->
 <table>
 <tr>
-<td><img src="./assets/images/cv.PNG" alt="xzx" style="height: 100px; width:100px; border-radius: 50%"/> </td>
+<td rowspan=3><img src="./assets/images/cv.PNG" alt="xzx" style="height: 100px; width:100px; border-radius: 50%"/> </td>
 <td>James(Minh Vuong) M.</td>
 <td> :phone: (+84) 349 432 030</td>
 </tr>
 <tr>
-<td></td>
+<td>Oct 27, 1994</td>
 </tr>
 </table>
 
