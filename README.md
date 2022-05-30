@@ -44,6 +44,9 @@ HO CHI MINH UNIVERSITY OF SCIENCE `Sep, 2012 - Oct, 2016`</br>
 
 **ECR Vietnam Co.,Ltd** `Nov, 2020 - Now`</br>
 *Frontend Team Lead*
+- Leading teams, encourage them to learn and deliver. Maintain momentum in the tough time.
+Communicate with clients to gather detailed functional specifications, business rules,flow and processes. Then collaborate with PM to breakdown customers’ expectation into tasks and add their estimation.
+- Help team to solve the conflict and keep team motivated.
 - Working knowledge of front end optimization and performance techniques.
 - Makes design recommendations towards the development of new code or reuse of existing code.
 - Developing and Administer the new Angular based website.
@@ -53,11 +56,19 @@ HO CHI MINH UNIVERSITY OF SCIENCE `Sep, 2012 - Oct, 2016`</br>
 - JavaScript framework experience in NodeJS.
 - Experience RESTful design and development.
 - Projects: 4Oranges Sale Audit, ECR Your Stock, ECR Your Ticketing.
+  - **ECR Your Stock**: The project builds an overall solution supporting the e-commerce sector for UK customers. Solutions include:
+    - Product management system, warehouse (web): This system is built on a web-based system to help store employees handle daily tasks as well as set up parameters for business.
+    - Sales system (device): Includes 2 devices (Till and Handheld). Both of these devices are outsourced by the customer and the company builds the software to run on these devices. The highlight of the system of sales equipment is that it can be used even when offline by using the mechanism of local storage on the device and synchronized with the management system when there is a network.
+
+    - In addition, the system is also built to be able to integrate with the old system of customers using and take advantage of the old system's data source, thereby ensuring the customer's business is not interrupted in actual deployment process.
+  - **ECR Your Ticketing**: The project builds an overall solution supporting the train ticket business for UK customers. Solutions include:
+    - Ticket management, ticket booking and customer (web) system: This system is built on web to help employees handle daily work as well as set up parameters for business. Support appropriate payment channels in case customers book tickets by phone (send an email with a link to pay to customers, receive cash and create invoices for customers).
+    - Sales system (device): Includes 2 devices (Till and Handheld). Both of these devices are outsourced by the customer and the company builds the software to run on these devices.
+    - Ticket booking system (web): The system also supports booking website so that users can choose and book tickets by themselves without contacting staff. The website is integrated with popular payment gateways in the UK such as Stripe, OPAYO, WorldPay, etc.
+
+    - Besides, the system is also built to be able to integrate with the STOCK system. With this integrated system, customers are fully supported with the features of STOCK and TICKETING systems.
 
 ## Skills
 - TypeScript, Angular, JavaScript, HTML, CSS...
-- Leading teams, encourage them to learn and deliver. Maintain momentum in the tough time.
-Communicate with clients to gather detailed functional specifications, business rules,flow and processes. Then collaborate with PM to breakdown customers’ expectation into tasks and add their estimation.
-- Help team to solve the conflict and keep team motivated.
 - Problem solving.
 - Critical thinking.
