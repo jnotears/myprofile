@@ -1,11 +1,3 @@
-<!-- <link href="style.css" rel="stylesheet"></link>
-<div style="margin: 20px">
-<img src="./assets/images/cv.PNG" alt="xzx" style="height: 100px; width:100px; border-radius: 50%"/> 
-<span style="font-size: 30px">
-James(Minh Vuong) M.
-</span></br>
-<span>October 27, 1994</span>
-</div></br> -->
 <table>
 <tr>
 <td rowspan=3><img src="./assets/images/cv.PNG" alt="xzx" style="height: 100px; width:100px; border-radius: 50%"/> </td>
@@ -14,7 +6,7 @@ James(Minh Vuong) M.
 </tr>
 <tr>
 <td> :birthday: Oct 27, 1994</td>
-<td> :email: jnotears@gmail.com</td>
+<td> :email: jamesnguyenm17@gmail.com</td>
 </tr>
 <tr>
 <td><span> :earth_americas: [Linkedin](https://linkedin.com/in/jamesm17) </span></td>
