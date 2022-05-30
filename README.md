@@ -6,7 +6,7 @@ James(Minh Vuong) M.
 </span></br>
 <span>October 27, 1994</span>
 </div></br> -->
-<table>
+<table markdown=1>
 <tr>
 <td rowspan=3><img src="./assets/images/cv.PNG" alt="xzx" style="height: 100px; width:100px; border-radius: 50%"/> </td>
 <td>James(Minh Vuong) M.</td>
