@@ -13,10 +13,10 @@ James(Minh Vuong) M.
 <td> :phone: (+84) 349 432 030</td>
 </tr>
 <tr>
-<td>Oct 27, 1994</td>
+<td> :birthday: Oct 27, 1994</td>
 </tr>
 <tr>
-<td><span> [Linkedin](https://linkedin.com/in/jamesm17) </span></td>
+<td><span> :earth_americas: [Linkedin](https://linkedin.com/in/jamesm17) </span></td>
 </tr>
 </table>
 
