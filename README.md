@@ -49,7 +49,8 @@ HO CHI MINH UNIVERSITY OF SCIENCE `Sep, 2012 - Oct, 2016`</br>
 
 ## Skills
 - TypeScript, Angular, JavaScript, HTML, CSS...
-- Leading team, breakdown requirements and estimate.
-- Teamwork.
+- Leading teams, encourage them to learn and deliver. Maintain momentum in the tough time.
+Communicate with clients to gather detailed functional specifications, business rules,flow and processes. Then collaborate with PM to breakdown customers’ expectation into tasks and add their estimation.
+- Help team to solve the conflict and keep team motivated.
 - Problem solving.
 - Critical thinking.
