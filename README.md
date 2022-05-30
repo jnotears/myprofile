@@ -25,8 +25,6 @@ James(Minh Vuong) M.
 ## Objective
 *Become a software engineer capable of solving project problems, able to work in team. Learning to know, learning to be, learning to do and learning to live together.*
 
-:phone:
-
 ## Education
 HO CHI MINH UNIVERSITY OF SCIENCE `Sep, 2012 - Oct, 2016`</br>
 *The Faculty of Information Technology, major in Software Engineering.*
