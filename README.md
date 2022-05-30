@@ -14,9 +14,11 @@ James(Minh Vuong) M.
 </tr>
 <tr>
 <td> :birthday: Oct 27, 1994</td>
+<td> :email: jnotears@gmail.com</td>
 </tr>
 <tr>
 <td><span> :earth_americas: [Linkedin](https://linkedin.com/in/jamesm17) </span></td>
+<td> :house: 86/127 Ong Ich Khiem, district 11, Hochiminh city</td>
 </tr>
 </table>
 
