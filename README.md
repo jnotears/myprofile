@@ -1,14 +1,14 @@
-<link href="style.css" rel="stylesheet"></link>
+<!-- <link href="style.css" rel="stylesheet"></link>
 <div style="margin: 20px">
 <img src="./assets/images/cv.PNG" alt="xzx" style="height: 100px; width:100px; border-radius: 50%"/> 
 <span style="font-size: 30px">
 James(Minh Vuong) M.
 </span></br>
 <span>October 27, 1994</span>
-</div></br>
+</div></br> -->
 <table>
 <tr>
-<td>James(Minh Vuong) M.</td>
+<td><img src="./assets/images/cv.PNG" alt="xzx" style="height: 100px; width:100px; border-radius: 50%"/> </td>
 <td>James(Minh Vuong) M.</td>
 <td> :phone: (+84) 349 432 030</td>
 </tr>
