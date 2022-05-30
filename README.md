@@ -11,12 +11,10 @@ James(Minh Vuong) M.
 *Become a software engineer capable of solving project problems, able to work in team. Learning to know, learning to be, learning to do and learning to live together.*
 
 ## Education
-***
 HO CHI MINH UNIVERSITY OF SCIENCE `Sep, 2012 - Oct, 2016`</br>
 *The Faculty of Information Technology, major in Software Engineering.*
 
 ## Work Experience
-***
 **FREELANCER** `Apr, 2015 - Nov, 2018`
 
 **ADT SAIGON** `Apr, 2016 - Nov, 2018`</br>
@@ -50,7 +48,6 @@ HO CHI MINH UNIVERSITY OF SCIENCE `Sep, 2012 - Oct, 2016`</br>
 - Projects: 4Oranges Sale Audit, ECR Your Stock, ECR Your Ticketing.
 
 ## Skills
-***
 - TypeScript, Angular, JavaScript, HTML, CSS...
 - Leading team, breakdown requirements and estimate.
 - Teamwork.
