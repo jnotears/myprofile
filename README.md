@@ -6,9 +6,21 @@ James(Minh Vuong) M.
 </span></br>
 <span>October 27, 1994</span>
 </div></br>
+<table>
+<tr>
+<td>James(Minh Vuong) M.</td>
+<td>James(Minh Vuong) M.</td>
+<td> :phone: (+84) 349 432 030</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+</table>
 
 ## Objective
 *Become a software engineer capable of solving project problems, able to work in team. Learning to know, learning to be, learning to do and learning to live together.*
+
+:phone:
 
 ## Education
 HO CHI MINH UNIVERSITY OF SCIENCE `Sep, 2012 - Oct, 2016`</br>
