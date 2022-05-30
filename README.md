@@ -7,11 +7,6 @@ James(Minh Vuong) M.
 <span>October 27, 1994</span>
 </div></br>
 
- Syntax | Description
- --- | -----------
- Header | Title
- Paragraph | Text
-
 >## Objective
 ***
 *Become a software engineer capable of solving project problems, able to work in team. Learning to know, learning to be, learning to do and learning to live together.*
