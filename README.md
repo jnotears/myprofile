@@ -16,7 +16,7 @@ James(Minh Vuong) M.
 <td>Oct 27, 1994</td>
 </tr>
 <tr>
-<td>[Linkedin](https://linkedin.com/in/jamesm17)</td>
+<td markdown=1> [Linkedin](https://linkedin.com/in/jamesm17) </td>
 </tr>
 </table>
 
