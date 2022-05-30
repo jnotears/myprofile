@@ -10,7 +10,7 @@
 </tr>
 <tr>
 <td><span> :earth_americas: [Linkedin](https://linkedin.com/in/jamesm17) </span></td>
-<td> :house: 86/127 Ong Ich Khiem, district 11, Hochiminh city</td>
+<td> :house: 86/127 Ong Ich Khiem, district 11, Hochiminh city, Vietnam</td>
 </tr>
 </table>
 
