@@ -70,5 +70,6 @@ Communicate with clients to gather detailed functional specifications, business 
 
 ## Skills
 - TypeScript, Angular, JavaScript, HTML, CSS...
+- Leadership.
 - Problem solving.
 - Critical thinking.
